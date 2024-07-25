@@ -1,0 +1,10 @@
+  ```python 
+FUNCTION matrix_sum(A, B):
+    Get the number of rows and columns in matrix A
+    Create an empty matrix C with the same dimensions
+    FOR each row i:
+        FOR each column j:
+            Set C[i][j] to the sum of A[i][j] and B[i][j]
+    RETURN the matrix C
+END FUNCTION
+  ```
