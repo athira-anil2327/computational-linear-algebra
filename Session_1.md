@@ -3,7 +3,7 @@ the following `pseudocode` show how to solve a system of linear equations
 
     ```python
     FUNCTION solution: K = [A|b]
-    Reduce to ro reduced echelon form
+    Reduce to row reduced echelon form
     Rank = no:of non zero rows of RREF
     If Rank(k) != Rank(A):
         print (System is inconsistant)
